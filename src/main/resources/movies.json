@@ -1,0 +1,55 @@
+[
+  {
+    "firstname": "Christopher",
+    "lastname": "Nolan",
+    "movies": [
+      {
+        "title": "Inception",
+        "releaseDate": "16.07.2010",
+        "duration": 148,
+        "genres": "Science Fiction - Action - Thriller",
+        "studio": {
+          "name": "Warner Bros.",
+          "country": "USA"
+        },
+        "rating": 8.8
+      },
+      {
+        "title": "Interstellar",
+        "releaseDate": "07.11.2014",
+        "duration": 169,
+        "genres": "Science Fiction - Drama - Adventure",
+        "studio": {
+          "name": "Paramount Pictures",
+          "country": "USA"
+        }
+      }
+    ]
+  },
+  {
+    "firstname": "Denis",
+    "lastname": "Villeneuve",
+    "movies": [
+      {
+        "name": "Dune",
+        "releaseDate": "22.10.2021",
+        "duration": 155,
+        "genres": "Science Fiction - Adventure - Drama",
+        "studio": {
+          "name": "Legendary Pictures",
+          "country": "USA"
+        }
+      },
+      {
+        "title": "Arrival",
+        "releaseDate": "11.11.2016",
+        "duration": 116,
+        "genres": "Science Fiction - Drama",
+        "studio": {
+          "name": "FilmNation Entertainment",
+          "country": "USA"
+        }
+      }
+    ]
+  }
+]
